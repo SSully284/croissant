@@ -1,0 +1,19 @@
+body {
+  background: black;
+  color: white;
+}
+
+h1,
+h3 {
+  text-align: center;
+}
+
+a {
+  color: burlywood;
+}
+
+img {
+  max-width: 900px;
+  display: block;
+  margin: 0 auto;
+}
